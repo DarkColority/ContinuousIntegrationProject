@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596910737769",
+    "project_id": "continueintegration-10f77",
+    "storage_bucket": "continueintegration-10f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596910737769:android:f7ac50bea690084da0d5f8",
+        "android_client_info": {
+          "package_name": "com.example.continueintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqOsfTdXqtuMYke3G0Hoew_v10C9rTZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

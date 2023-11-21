@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContinueIntegrationProject</string>
+    <string name="splash">This is a splash screen</string>
 </resources>
